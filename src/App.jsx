@@ -47,6 +47,10 @@ export default function App() {
 
       <Divider />
 
+      <Divider />
+
+      <Divider />
+
       <Grid
         margin="3rem 0"
         autoFlow="column"
